@@ -14,46 +14,46 @@ read base
 
 python3 -m venv env
 
-echo check1
+echo Created virtual enviornment
 
 source env/bin/activate
 
-echo check2
+echo Activated virtual enviornment
 
 pip3 install django
 
-echo check3
+echo Installed django successfully
 
 pip3 install djangorestframework
 
-echo check4
+echo Installed djangorestframework successfully
 
 django-admin startproject $name
 
-echo check5
+echo Started project $name
 
 mv env/ $name/
 
-echo check6
+echo Moved virtual enviornment to $name folder
 
 cd $name/
 
-echo check7
+echo Changed directory to $name folder
 
 python3 manage.py startapp $base
 
-echo check8
+echo Started new App $base
 
 python3 manage.py makemigrations
 
-echo check9
+echo Converted python models to SQL classes
 
 python3 manage.py migrate
 
-echo check10
+echo Created database Successfully
 
 python3 manage.py runserver
 
-echo check11
+echo Server Running
 
 echo DONE!
