@@ -1,7 +1,8 @@
+---
 theme: jekyll-theme-minimal
 title: JApi Documentation
 description: Bookmark this to keep an eye on my project updates!
-
+---
 
 
 Quality documentation is a hallmark of any healthy software project. For open-source projects, however, 
