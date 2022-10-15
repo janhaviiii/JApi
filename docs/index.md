@@ -1,3 +1,9 @@
+theme: jekyll-theme-minimal
+title: JApi Documentation
+description: Bookmark this to keep an eye on my project updates!
+
+
+
 Quality documentation is a hallmark of any healthy software project. For open-source projects, however, 
 maintaining a robust compendium of knowledge detailing all the ins and outs is paramount. Well-curated 
 documentation increases your project’s approachability, provides asynchronous guidance, and fosters the 
