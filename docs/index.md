@@ -1,8 +1,9 @@
 ---
-layout: drfault
+layout: default
 theme: jekyll-theme-minimal
 title: JApi Documentation
 description: Bookmark this to keep an eye on my project updates!
+permalink: /about/contact/
 ---
 
 #getting started
