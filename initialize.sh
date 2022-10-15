@@ -4,13 +4,10 @@ echo start
 
 echo please install python3, python3-pip, python3-django if not present
 
-echo give name alt to Backend
+name=$1
+base=$2 
 
-read name
-
-echo give alt name to BASE
-
-read base
+echo $name $base
 
 python3 -m venv env
 
