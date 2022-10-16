@@ -1,7 +1,7 @@
 
 
-notes-generator
-Futuristic way of taking notes
+#notes-generator
+#Futuristic way of taking notes
 
 📓 About
 Notes generator is a web application written using React and Django. It converts normal markdown notes into a flowchart that makes revision of topic more efficient and fun.
