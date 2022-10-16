@@ -1,6 +1,6 @@
 # JApi 
 
-An automated backend system
+An automated backend system.
 
 ## 📓 About
 
@@ -54,6 +54,7 @@ writing the same code again.
 ## 🤖 Tech Stack
 
 Following tech stacks have been used to create this project <br>
+
 <b>React</b><br> Shell, Python, Django and its frameworks along with 
 the package Click is used to buil this terminal app. 
 The algorithm behind the app and the code for establishing the connections 
